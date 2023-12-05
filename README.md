@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vozke3-weKzyc-kaqcoc
+- 👋 Hi, I’m William
 - 👀 I’m interested in compute
 - 🌱 I’m currently learning computer
 - 💞️ I’m looking to collaborate on computer
